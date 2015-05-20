@@ -1,2 +1,2 @@
 # rustTest
-testing some rust
+Testing different applications and practicing rust. "Draginz" as someone once said.
